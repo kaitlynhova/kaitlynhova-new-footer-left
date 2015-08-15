@@ -69,6 +69,12 @@ footer ul li p{
   padding: 15px;
 }
 
+footer .row{
+  margin: 0 auto;
+  max-width: 100%;
+  width: 100%;
+}
+
 footer a p{
     color: #aab7be;
     opacity: 1;
